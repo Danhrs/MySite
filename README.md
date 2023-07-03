@@ -1,2 +1,2 @@
-# MySite
- a site used to test new technologies, besides being a base for my portfolio
+# My Portifolio 💼🛢👨🏽‍💻
+portfolio project for presentation of projects of developments in python🛢 and DataScience👨🏽‍💻
